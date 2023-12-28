@@ -22,3 +22,6 @@ Filters are used to visualize Top 3 Highest Paid employees
 Conditional Formatting is used to add Data Bars in the visuals
 Power Query editor, Extract option is used to fetch the first letter of emp name 
 Tool tips are added to the visuals to display the number of emp with leave bal greater than 20
+
+![image](https://github.com/GokilaSundaram/HR-Dataanalytics-PowerBI/assets/138405457/28e6976a-0228-4600-a5a1-07071934b7ab)
+
